@@ -1,0 +1,1 @@
+Este é um projeto criado para estudos.
